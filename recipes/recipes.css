@@ -1,11 +1,20 @@
+
 body {
     
     background-color: rgb(255, 224, 153);
     font-size: 25px;
-    margin: 0 auto;
+    height: 100vh;
+    margin: 0;
+
+   
 }
 
 img {
+    width: 500px; /* Ширина за компютър */
+    max-width: 100%; /* На телефон няма да надвишава ширината на екрана */
+    height: auto; /* Запазва правилните пропорции на снимката */
+    padding: 10px;
+    box-sizing: border-box; /* Предотвратява излизането на снимката от екрана заради padding-а */
     border-radius: 35px;
 }
 

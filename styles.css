@@ -1,0 +1,45 @@
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-image: url(recipe.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+span {
+    color: rgb(0, 0, 0, 0.9);
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    margin: 50px auto;
+    color: blanchedalmond;
+    
+}
+
+ul {
+    text-align: center;
+}
+li {
+    display: block;
+    margin: 30px auto;
+}
+
+
+a {
+    color: rgb(255, 198, 41);
+    font-size: 35px;
+    margin: 20px;
+    font-weight: 800;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    color: black;
+}
+a:active {
+    opacity: 0.3;
+    color: brown;
+}

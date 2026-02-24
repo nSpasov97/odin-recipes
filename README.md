@@ -1,1 +1,1 @@
-I will make my first project Recipes in HTML first i create new repository and now i will follow all the steps i think i will use <ul> element.
+I will make my first project Recipes in HTML first i create new repository and now i will follow all the steps.
